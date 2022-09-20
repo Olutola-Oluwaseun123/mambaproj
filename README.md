@@ -1,0 +1,2 @@
+# mambaproj
+school management proj
